@@ -22,7 +22,7 @@ This project includes an example to take pictures with the camara.
    npm install
    ```
 
-5. Start the environtment
+5. Start the environment
 
    ```jsx
    expo start
